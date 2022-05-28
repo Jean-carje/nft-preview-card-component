@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Live](https://jean-carje.github.io/nft-preview-card-component/)
 - Live Site URL: [Codepen](https://codepen.io/carje/full/RwQxEep)
 
 ## My process
